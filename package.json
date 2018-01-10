@@ -1,0 +1,26 @@
+{
+  "name": "reactserverside",
+  "version": "1.0.0",
+  "description": "Sample project using nextjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/supran2811/ReactServerSide.git"
+  },
+  "author": "supran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/supran2811/ReactServerSide/issues"
+  },
+  "homepage": "https://github.com/supran2811/ReactServerSide#readme",
+  "dependencies": {
+    "next": "^4.2.2",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  }
+}

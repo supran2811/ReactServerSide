@@ -1,0 +1,6 @@
+
+          window.__NEXT_REGISTER_PAGE('/auth', function() {
+            var comp = module.exports=webpackJsonp([3],{200:function(e,t,a){e.exports=a(201)},201:function(e,t,a){"use strict";function n(e){return e&&e.__esModule?e:{default:e}}Object.defineProperty(t,"__esModule",{value:!0});var u=a(6),l=n(u),r=a(202),c=n(r),d=function(e){return l.default.createElement("div",null,l.default.createElement("h1",null,"The Auth page --- ",e.type),l.default.createElement("p",null,l.default.createElement(c.default,{name:"supran",age:20})))};d.getInitialProps=function(e){return{type:"Man"}},t.default=d},202:function(e,t,a){"use strict";function n(e){return e&&e.__esModule?e:{default:e}}Object.defineProperty(t,"__esModule",{value:!0});var u=a(203),l=n(u),r=a(6),c=n(r),d=function(e){return c.default.createElement("div",{className:"jsx-3497455170"},c.default.createElement(l.default,{styleId:"3497455170",css:["p.jsx-3497455170{background:white;border:2px solid red;box-shadow:2px 3px #ccc;text-align:center;}"]}),c.default.createElement("h1",{className:"jsx-3497455170"},"Name: ",e.name),c.default.createElement("p",{className:"jsx-3497455170"},"Age : ",e.age))};t.default=d},203:function(e,t,a){e.exports=a(101)}},[200]);
+            return { page: comp.default }
+          })
+        
